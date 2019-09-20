@@ -15,9 +15,3 @@
 ## Education
 * My life
 * RS School :-)
-
-## Code example
-```sh
-cat «test… test… test...» | perl -e '$??s:;s:s;;$?::s;;=]=>%-{<-|}<&|`{;;y; -/:-@[-`{-};`-{/" -;;s;;$_;see'
-```
-_*Please do not run this code if you don't completely understand what it doing!_
