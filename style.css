@@ -1,0 +1,31 @@
+body {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+header {
+  width: 100%;
+}
+
+figure {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+nav {
+  margin-top: 20px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.menu_item {
+  list-style: none;
+}
+
+main {
+  margin-left: 100px;
+  margin-right: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
